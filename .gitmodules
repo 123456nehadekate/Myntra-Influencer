@@ -1,0 +1,6 @@
+[submodule "TREND-CREEATION-PLATFORM"]
+	path = TREND-CREEATION-PLATFORM
+	url = https://github.com/Snehaaajajodia/TREND-CREEATION-PLATFORM
+[submodule "influencer_Myntra_MLmodel"]
+	path = influencer_Myntra_MLmodel
+	url = https://github.com/Snehaaajajodia/influencer_Myntra_MLmodel
